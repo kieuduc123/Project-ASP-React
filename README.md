@@ -11,7 +11,7 @@ To set up the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/nike-store-app.git
+   
    ```
 
 2. Navigate to the project directory:
@@ -50,7 +50,7 @@ This project is a fully responsive Nike fake store app, beautifully styled with 
 
 ## Preview
 
-You can access the live project [here](https://nike-store-app-omega.vercel.app/).
+You can access the live project [here](https://shop-shose.netlify.app/).
 
 ## Screenshots
 
@@ -65,7 +65,7 @@ You can access the live project [here](https://nike-store-app-omega.vercel.app/)
 
 To use the Nike Store App, follow these steps:
 
-1. Open the app in your web browser by clicking on the [live project link](https://nike-store-app-omega.vercel.app/).
+1. Open the app in your web browser by clicking on the [live project link](https://shop-shose.netlify.app/).
 
 2. Browse the Nike products available in the store.
 
